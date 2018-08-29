@@ -1,0 +1,19 @@
+fieldset{
+    margin-right: 900px;
+    background-color:slateblue;
+
+}
+form {
+ border: 50px;
+ width:400px;
+ height:100px;
+}
+p {
+    color: black;
+    
+}/*
+.SignIn {
+    font-size: 25px;
+    color:red;
+}
+*/

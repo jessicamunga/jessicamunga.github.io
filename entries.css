@@ -1,0 +1,15 @@
+table style{
+    border: 1px solid red;
+    border-collapse: collapse;
+    
+}
+body{
+    background-image: url("my images/butter.jpg");
+    background-repeat: no-repeat;
+    background-position:cover;
+    color: white;
+}
+th, td{
+    padding: 5px;
+}
+
